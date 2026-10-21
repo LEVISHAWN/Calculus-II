@@ -1,0 +1,6 @@
+{
+  "name": "Calculus 2 Integration Masterclass for Computer Science",
+  "description": "An interactive, visual, and CS-focused guide to mastering Calculus 2 integration techniques with worked examples, code mappings, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
